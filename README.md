@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/NamasakaLennox/NamasakaLennox/main/header.png "Header")](https://www.linkedin.com/in/lennoxnamasaka/)
+[![Header](https://raw.githubusercontent.com/NamasakaLennox/NamasakaLennox/main/header2.png "Header")](https://www.linkedin.com/in/lennoxnamasaka/)
 
 # Hello There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
