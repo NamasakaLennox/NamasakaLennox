@@ -47,11 +47,11 @@ My name is Namasaka Lennox and I'm a passionate software engineer. I'm from Keny
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NamasakaLennox&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Namasaka's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/NamasakaLennox/my_simple_shell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamasakaLennox&repo=my_simple_shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/NamasakaLennox/printf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamasakaLennox&repo=printf&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
