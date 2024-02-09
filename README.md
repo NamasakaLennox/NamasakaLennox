@@ -4,7 +4,7 @@
 
 My name is Namasaka Lennox and I'm a passionate software engineer. I'm from Kenya, living in Nairobi.
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 **Fullstack Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
